@@ -1,0 +1,14 @@
+C:\Users\jseba\Desktop\Código\C#\WinForm\bin\Debug\net8.0-windows\WinForm.exe
+C:\Users\jseba\Desktop\Código\C#\WinForm\bin\Debug\net8.0-windows\WinForm.deps.json
+C:\Users\jseba\Desktop\Código\C#\WinForm\bin\Debug\net8.0-windows\WinForm.runtimeconfig.json
+C:\Users\jseba\Desktop\Código\C#\WinForm\bin\Debug\net8.0-windows\WinForm.dll
+C:\Users\jseba\Desktop\Código\C#\WinForm\bin\Debug\net8.0-windows\WinForm.pdb
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfoInputs.cache
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.AssemblyInfo.cs
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.csproj.CoreCompileInputs.cache
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.dll
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\refint\WinForm.dll
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll

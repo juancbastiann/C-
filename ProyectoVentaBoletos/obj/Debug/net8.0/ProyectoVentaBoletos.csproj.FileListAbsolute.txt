@@ -1,0 +1,14 @@
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.AssemblyInfoInputs.cache
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.AssemblyInfo.cs
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.csproj.CoreCompileInputs.cache
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\bin\Debug\net8.0\ProyectoVentaBoletos.exe
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\bin\Debug\net8.0\ProyectoVentaBoletos.deps.json
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\bin\Debug\net8.0\ProyectoVentaBoletos.runtimeconfig.json
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\bin\Debug\net8.0\ProyectoVentaBoletos.dll
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\bin\Debug\net8.0\ProyectoVentaBoletos.pdb
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.dll
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\refint\ProyectoVentaBoletos.dll
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.pdb
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ProyectoVentaBoletos.genruntimeconfig.cache
+C:\Users\jseba\Desktop\Código\C#\ProyectoVentaBoletos\obj\Debug\net8.0\ref\ProyectoVentaBoletos.dll
