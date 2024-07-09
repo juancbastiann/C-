@@ -12,3 +12,4 @@ C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\refint\WinFor
 C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.pdb
 C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.genruntimeconfig.cache
 C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\ref\WinForm.dll
+C:\Users\jseba\Desktop\Código\C#\WinForm\obj\Debug\net8.0-windows\WinForm.sourcelink.json
