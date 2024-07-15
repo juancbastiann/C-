@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\User\OneDrive - Universidad de Guayaquil\6TO SEMESTRE\LENGUAJE DE PROGRAMACION\PROYECTOS\GestorTareas\obj\Debug\GestorTareas.pdb
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+C:\Users\jseba\Desktop\Code\C#\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb

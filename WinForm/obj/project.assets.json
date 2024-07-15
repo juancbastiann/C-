@@ -8,24 +8,32 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jseba\\.nuget\\packages\\": {}
+    "C:\\Users\\jseba\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jseba\\Desktop\\Código\\C#\\WinForm\\WinForm.csproj",
+      "projectUniqueName": "C:\\Users\\jseba\\Desktop\\Code\\C#\\WinForm\\WinForm.csproj",
       "projectName": "WinForm",
-      "projectPath": "C:\\Users\\jseba\\Desktop\\Código\\C#\\WinForm\\WinForm.csproj",
+      "projectPath": "C:\\Users\\jseba\\Desktop\\Code\\C#\\WinForm\\WinForm.csproj",
       "packagesPath": "C:\\Users\\jseba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jseba\\Desktop\\Código\\C#\\WinForm\\obj\\",
+      "outputPath": "C:\\Users\\jseba\\Desktop\\Code\\C#\\WinForm\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jseba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jseba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

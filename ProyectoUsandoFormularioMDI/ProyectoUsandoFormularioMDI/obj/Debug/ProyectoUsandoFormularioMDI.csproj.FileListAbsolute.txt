@@ -1,0 +1,10 @@
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\bin\Debug\ProyectoUsandoFormularioMDI.exe.config
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\bin\Debug\ProyectoUsandoFormularioMDI.exe
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\bin\Debug\ProyectoUsandoFormularioMDI.pdb
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.csproj.AssemblyReference.cache
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.Form1.resources
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.Properties.Resources.resources
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.csproj.GenerateResource.cache
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.csproj.CoreCompileInputs.cache
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.exe
+C:\Users\jseba\Desktop\Code\C#\ProyectoUsandoFormularioMDI\ProyectoUsandoFormularioMDI\obj\Debug\ProyectoUsandoFormularioMDI.pdb

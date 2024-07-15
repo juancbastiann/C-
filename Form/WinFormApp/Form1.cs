@@ -8,7 +8,7 @@ namespace WinFormApp
     public Form1()
     {
       InitializeComponent();
-      this.Text = "Nombres de los integrantes del equipo";
+      this.Text = "Menú";
       this.Icon = new System.Drawing.Icon(@"Resources\usuario.ico");
 
       // Agregar el manejador de eventos Resize

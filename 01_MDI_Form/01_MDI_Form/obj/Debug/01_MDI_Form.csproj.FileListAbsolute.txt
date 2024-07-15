@@ -1,0 +1,16 @@
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\bin\Debug\01_MDI_Form.exe.config
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\bin\Debug\01_MDI_Form.exe
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\bin\Debug\01_MDI_Form.pdb
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.csproj.AssemblyReference.cache
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\_01_MDI_Form.MDIForm.resources
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\_01_MDI_Form.Properties.Resources.resources
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.csproj.GenerateResource.cache
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.csproj.CoreCompileInputs.cache
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.exe
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.pdb
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\_01_MDI_Form.Frm_Letra.resources
+C:\Users\User\Dropbox\workspace-varios\VisualStudioCode\LenguajesProg_WinForms\01_MDI_Form\01_MDI_Form\obj\Debug\_01_MDI_Form.Frm_TipoLetra.resources
+C:\Users\jseba\Desktop\Code\C#\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.csproj.AssemblyReference.cache
+C:\Users\jseba\Desktop\Code\C#\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.exe
+C:\Users\jseba\Desktop\Code\C#\01_MDI_Form\01_MDI_Form\obj\Debug\01_MDI_Form.pdb
